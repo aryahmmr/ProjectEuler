@@ -1,19 +1,17 @@
-A README is often the first item a visitor will see when visiting your repository. README files typically include information on:
+TL;DR: Project Euler solutions
 
-What the project does
-Why the project is useful
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
-
-pe
-Project Euler solutions
+A folder containing python .py files to run when seeking solutions to the challenges on prejecteuler.net
 
 pe = Project Euler
 
-Solutions to challenges from projecteuler.net.
+Naming/numbering system:
 
-pe ij = project euler ij for all i,j-1 >= 0
+pe ij = project euler ij for all integers i,j-1 >= 0
 
 e.g.
   pe01 = project euler project 01
+
+run the .py code in Python 3 and the correct answer to the challenge is returned
+
+13 April 2023
+Arya S. Afshari
